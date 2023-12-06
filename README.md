@@ -1,2 +1,2 @@
 # hello-world
-trying my first GitHub rep.
+*trying my first GitHub rep.*
